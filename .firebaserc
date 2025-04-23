@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "se22april"
-  }
+    "default": "se-cicd2"
+  },
+  "targets": {},
+  "etags": {}
 }
